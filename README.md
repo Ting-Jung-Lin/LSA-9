@@ -32,4 +32,4 @@ Telegram bot
 
 * 張淯婷 : 盒子組裝
 
-* 嚴彥婷 : telegram bot、README
+* 嚴彥婷 : telegram bot
