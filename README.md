@@ -17,6 +17,14 @@
 * 存錢
 * 拍照
 
+## 準備
+Telegram bot
+
+* 加 `BotFather`為好友
+* `/newbot`建立機器人
+* 幫機器人&user取名
+* `/token`查看token
+
 ## 工作分配
 * 謝沐恩 : pi camera&接腳連接
 
@@ -24,4 +32,4 @@
 
 * 張淯婷 : 盒子組裝
 
-* 嚴彥婷 : telegram bot
+* 嚴彥婷 : telegram bot、README
