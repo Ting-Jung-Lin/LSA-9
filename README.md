@@ -23,6 +23,7 @@ Telegram bot
 * 加 `BotFather`為好友
 * `/newbot`建立機器人
 * 幫機器人&user取名
+![](https://i.imgur.com/jlsATOI.jpg)    
 * `/token`查看token
 
 ## 工作分配
@@ -32,4 +33,4 @@ Telegram bot
 
 * 張淯婷 : 盒子組裝
 
-* 嚴彥婷 : telegram bot
+* 嚴彥婷 : telegram bot、README
