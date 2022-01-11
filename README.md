@@ -23,8 +23,10 @@ Telegram bot
 * 加 `BotFather`為好友
 * `/newbot`建立機器人
 * 幫機器人&user取名
-<img src = "https://i.imgur.com/jlsATOI.jpg" width = "300px" />
+<img src = "https://i.imgur.com/jlsATOI.jpg" width = "300px">
+
 * `/token`查看token 
+
 ## 工作分配
 * 謝沐恩 : pi camera&接腳連接
 
