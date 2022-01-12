@@ -48,6 +48,13 @@ Telegram bot
 
 * `/token`查看token 
 
+## 存錢盒組裝
+
+可愛的柴柴~
+<img src = "https://i.imgur.com/gp5aaw5.jpg" width = "300px">
+連接馬達的手臂
+<img src = "https://i.imgur.com/kmjrq25.jpg" width = "300px">
+
 ## 遇到的困難
 * 網路環境不佳導致pi camera無法成功拍照、照片無法成功傳到Telegram bot
 
