@@ -1,26 +1,39 @@
 import telepot
 import datetime
 import time
-from telepot.loop import MessageLoop
-#from picamera import PiCamera
+import RPi.GPIO as GPIO
+import picamera
 
-# LsaDonate Token
+GPIO.setmode(GPIO.BOARD)
+GPIO.setwarnings(False)
+BUTTON_PIN=37
+MOTOR_CONTROL_PIN=11
+GPIO.setup(BUTTON_PIN,GPIO.IN,pull_up_down=GPIO.PUD_DOWN)#下拉電阻
+GPIO.setup(MOTOR_CONTROL_PIN,GPIO.OUT)
+
 bot = telepot.Bot('5070507195:AAHi5vBDOxF1c5AymErTqd_BA7UYvI6_X9A')
-def handle(msg):
-    global checkisme
-    chat_id = msg['chat']['id']
-    telegramText = msg['text']
-    print('Message received from ' + str(chat_id))
-    # 開始連線，向 bot 訂閱通知
-    if telegramText == '/start':
-        bot.sendMessage(chat_id, 'Hi! This is a box you can donate some money:)')
-        photo = 'test.png'
-        bot.sendPhoto(chat_id,photo=open(photo, 'rb'))
-
-        
-MessageLoop(bot, handle).run_as_thread()
-print("I'm listening...")
-#print(datetime.now())
-
 while True:
-    time.sleep(1)
+    GPIO.setwarnings(False)
+    BUTTON_STATUS=GPIO.input(BUTTON_PIN)
+     #開關壓下去
+    if(BUTTON_STATUS==True):
+         #輸出高電壓到調速馬達
+         GPIO.output(MOTOR_CONTROL_PIN,1)
+         time.sleep(3)
+         #停住幾秒
+         GPIO.output(MOTOR_CONTROL_PIN,0)
+         #拍照
+         camera = picamera.PiCamera()
+         time.sleep(5)
+         camera.capture('success22.png')
+         camera.close()
+         photo = 'success22.png'
+         bot.sendPhoto(847958195,photo=open(photo, 'rb'))
+         #停住幾秒
+         GPIO.output(MOTOR_CONTROL_PIN,1)
+         time.sleep(1)
+         #開關放開
+         for i in range(10):
+            print(str(i)+"一圈跑完")
+    else:
+         GPIO.output(MOTOR_CONTROL_PIN,0)
