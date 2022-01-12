@@ -21,8 +21,21 @@
 
 ## pi 3  安裝套件
 
-### telegram bot
+### python
 ```python = 
+sudo apt-get install python3-pip
+sudo apt install python3-pip
+```
+### GPIO
+```GPIO = 
+sudo pip install RPi.GPIO
+```
+### pi camera
+```camera = 
+sudo pip install picamera
+```
+### telegram bot
+```telepot = 
 sudo pip install telepot
 ```
 ## 準備
