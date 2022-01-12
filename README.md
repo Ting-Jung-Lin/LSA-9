@@ -51,9 +51,10 @@ Telegram bot
 ## 存錢盒組裝
 
 可愛的柴柴~
-<img src = "https://i.imgur.com/gp5aaw5.jpg" width = "500px" height = "300px">
+![](https://i.imgur.com/gp5aaw5.jpg)
 連接馬達的手臂
-<img src = "https://i.imgur.com/kmjrq25.jpg" width = "500px" height = "300px">
+![](https://i.imgur.com/kmjrq25.jpg)
+
 
 ## 遇到的困難
 * 網路環境不佳導致pi camera無法成功拍照、照片無法成功傳到Telegram bot
