@@ -22,7 +22,9 @@
 ## pi 3  安裝套件
 
 ### telegram bot
-```python = sudo pip install telepot```
+```python = 
+sudo pip install telepot
+```
 ## 準備
 Telegram bot
 
