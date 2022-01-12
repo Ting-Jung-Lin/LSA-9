@@ -11,7 +11,7 @@ MOTOR_CONTROL_PIN=11
 GPIO.setup(BUTTON_PIN,GPIO.IN,pull_up_down=GPIO.PUD_DOWN)#下拉電阻
 GPIO.setup(MOTOR_CONTROL_PIN,GPIO.OUT)
 
-bot = telepot.Bot('5070507195:AAHi5vBDOxF1c5AymErTqd_BA7UYvI6_X9A')
+bot = telepot.Bot('yourtoken')
 while True:
     GPIO.setwarnings(False)
     BUTTON_STATUS=GPIO.input(BUTTON_PIN)
