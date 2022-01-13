@@ -57,10 +57,9 @@ Telegram bot
 <img src = "https://i.imgur.com/kmjrq25.jpg" width = "500px" height = "700px">
 
 <img src = "https://i.imgur.com/k6vRX7F.jpg" width = "300px">
-**調速器**
+<font size = 20>調速器</font>
 <img src = "https://i.imgur.com/BEru0vH.jpg" width = "300px">
-
-*馬達*
+<font size = 20>馬達</font>
 
 
 ## 遇到的困難
