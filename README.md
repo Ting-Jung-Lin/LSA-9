@@ -57,9 +57,10 @@ Telegram bot
 <img src = "https://i.imgur.com/kmjrq25.jpg" width = "500px" height = "700px">
 
 <img src = "https://i.imgur.com/k6vRX7F.jpg" width = "300px">
-**調速器**
+__ 調速器 __
 <img src = "https://i.imgur.com/BEru0vH.jpg" width = "300px">
-**馬達**
+
+__ 馬達 __
 
 
 ## 遇到的困難
@@ -72,10 +73,10 @@ Telegram bot
 * 電流腳位輸出電壓不穩
 
 ## 工作分配
-* 謝沐恩 : pi camera&接腳連接
+* 謝沐恩 : pi camera&接腳連接、程式整合、PPT製作
 
-* 林庭君 : 開關、馬達&接腳連接
+* 林庭君 : 開關、馬達&接腳連接、程式整合
 
-* 張淯婷 : 盒子組裝
+* 張淯婷 : 盒子組裝、創意發想、PPT製作
 
-* 嚴彥婷 : telegram bot、README
+* 嚴彥婷 : telegram bot、README、PPT製作
