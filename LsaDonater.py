@@ -2,7 +2,6 @@ import telepot
 import datetime
 import time
 import RPi.GPIO as GPIO
-from telepot.loop import MessageLoop
 import picamera
 
 import datetime as dt
