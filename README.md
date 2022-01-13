@@ -68,6 +68,10 @@ Telegram bot
 
 <img src = "https://i.imgur.com/HJJWOND.jpg" width = "300px">
 
+* 觸摸感應開關
+
+<img src = "https://i.imgur.com/AtCarJN.jpg" height = "350px">
+
 * 合體
 
 ![](https://i.imgur.com/LfT5yU9.jpg)
