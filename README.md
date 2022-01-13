@@ -56,13 +56,13 @@ Telegram bot
 連接馬達的手臂
 <img src = "https://i.imgur.com/kmjrq25.jpg" width = "500px" height = "700px">
 
+* 調速器
+
 <img src = "https://i.imgur.com/k6vRX7F.jpg" width = "300px">
 
-<font size = 20>調速器</font>
+* 馬達
 
 <img src = "https://i.imgur.com/BEru0vH.jpg" width = "300px">
-
-<font size = 50>馬達</font>
 
 
 ## 遇到的困難
