@@ -59,7 +59,7 @@ Telegram bot
 <img src = "https://i.imgur.com/k6vRX7F.jpg" width = "300px">
 <font size = 20>調速器</font>
 <img src = "https://i.imgur.com/BEru0vH.jpg" width = "300px">
-<font size = 20>馬達</font>
+<font size = 50>馬達</font>
 
 
 ## 遇到的困難
