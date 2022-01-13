@@ -56,6 +56,12 @@ Telegram bot
 連接馬達的手臂
 <img src = "https://i.imgur.com/kmjrq25.jpg" width = "500px" height = "700px">
 
+<img src = "https://i.imgur.com/k6vRX7F.jpg" width = "300px">
+調速器
+<img src = "https://i.imgur.com/BEru0vH.jpg" width = "300px">
+馬達
+
+
 ## 遇到的困難
 * 網路環境不佳導致pi camera無法成功拍照、照片無法成功傳到Telegram bot
 
