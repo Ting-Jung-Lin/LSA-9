@@ -77,7 +77,7 @@ Telegram bot
 ![](https://i.imgur.com/LfT5yU9.jpg)
 
 ## DEMO
-{%youtube iQx_KwT3ZEs %}
+* [Donate box](https://youtube.com/shorts/iQx_KwT3ZEs?feature=share)
 
 ## 遇到的困難
 * 網路環境不佳導致pi camera無法成功拍照、照片無法成功傳到Telegram bot
