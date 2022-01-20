@@ -99,3 +99,13 @@ Power+與繼電器NO腳接、Power-接到樹莓派GND、Motor+/-接馬達
 * 張淯婷 : 盒子組裝、創意發想、PPT製作
 
 * 嚴彥婷 : telegram bot、README、PPT製作
+## 參考資料
+* https://youtu.be/Uj2H_2uHE1k
+* https://www.codelast.com/%E5%8E%9F%E5%88%9B-%E5%9C%A8%E6%A0%91%E8%8E%93%E6%B4%BE%E4%B8%8A%E4%BD%BF%E7%94%A8%E8%A7%A6%E6%91%B8%E5%BC%80%E5%85%B3%EF%BC%88touch-switch%EF%BC%89/
+* http://spicliff.blogspot.com/2016/08/impendance-cpu17gpio-gpio-impendance.html
+* https://blog.jmaker.com.tw/arduino-relay/
+* https://www.raspberrypi.com.tw/17506/raspberry-pi-camera-python-opencv-2days-workshop-at-nfu/
+* https://read01.com/zh-tw/L2RD8M8.html#.Yd3Ze_5BxPZ
+* https://github.com/NCNU-OpenSource/pi_Car_Recorder_no_saved/blob/master/main.py
+* https://dsalearning.github.io/raspberry/rpi-gpio/
+* https://ithelp.ithome.com.tw/articles/10215294
