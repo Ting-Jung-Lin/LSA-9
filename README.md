@@ -65,6 +65,7 @@ COM接到樹莓派3.3V輸出口、NO接到調速器正極
 * 調速器
 
 Power+與繼電器NO腳接、Power-接到樹莓派GND、Motor+/-接馬達
+
 <img src = "https://i.imgur.com/HJJWOND.jpg" width = "300px">
 
 * 馬達
