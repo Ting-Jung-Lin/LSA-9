@@ -49,6 +49,13 @@ Telegram bot
 連接馬達的手臂
 <img src = "https://i.imgur.com/kmjrq25.jpg" width = "500px" height = "700px">
 
+* 觸摸感應開關
+
+<img src = "https://i.imgur.com/AtCarJN.jpg" height = "350px">
+
+<img src = "https://www.codelast.com/wp-content/uploads/2016/10/touch-switch_bb.png" height = "350px">
+SIG接到樹梅派GPIO口(用程式把該口設為INPUT)、VCC接到樹莓派5V輸出口、GND接到樹莓派GND口
+
 * 繼電器
 
 <img src = "https://i.imgur.com/k6vRX7F.jpg" width = "300px">
@@ -60,10 +67,6 @@ Telegram bot
 * 調速器
 
 <img src = "https://i.imgur.com/HJJWOND.jpg" width = "300px">
-
-* 觸摸感應開關
-
-<img src = "https://i.imgur.com/AtCarJN.jpg" height = "350px">
 
 * 合體
 
