@@ -43,10 +43,11 @@ Telegram bot
 
 ## 存錢盒組裝
 
-可愛的柴柴~
+* 可愛的柴柴~
 
 <img src = "https://i.imgur.com/gp5aaw5.jpg" width = "500px" height = "700px">
-連接馬達的手臂
+
+* 連接馬達的手臂
 <img src = "https://i.imgur.com/kmjrq25.jpg" width = "500px" height = "700px">
 
 * 觸摸感應開關
